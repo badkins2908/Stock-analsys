@@ -7,12 +7,10 @@ This code specifically worked to hone skills in understanding indexing across ar
 
 ### Analysis Results
 The results of the VBA code, show that 10 out of the 11 tickers had positive returns in the year 2017. With tickers DQ, ENPH, FSLR, and SEDG having an annual return of over 100%. 
-![Image of 2017]
-(Resources/VBA_2017_Analysis.png)
+![VBA_2017_Analysis](https://github.com/badkins2908/Stock-analysis/Resources/VBA_2017_Analysis.png)
 
 Where as for the year 2018, show that only 2 tickers out of the 11 had positive returns. Specifically tickers ENPH and RUN, with more than 80% annual return. Where as the remaining 9 tickers had negative annual returns.
-![Image of 2018]
-(Resources/VBA_2018_Analysis.png)
+![Image of 2018](https://github.com/badkins2908/Stock-analysis/Resources/VBA_2018_Analysis.png)
 
 ENPH is the only stock ticker that had a positive return for both 2017 and 2018 years.
 
